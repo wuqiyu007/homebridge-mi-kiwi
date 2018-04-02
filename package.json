@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-mi-kiwi",
+  "version": "0.6.9", 
+  "description": "XiaoMi Aqara plugins for HomeBridge(https://github.com/nfarina/homebridge).",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "wuqiyu007",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuqiyu007/homebridge-mi-kiwi"
+  },
+  "bugs": {
+    "url": "https://github.com/wuqiyu007/homebridge-mi-kiwi/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.4.1"
+  }
+}
